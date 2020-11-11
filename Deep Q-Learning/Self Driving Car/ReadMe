@@ -1,3 +1,5 @@
 # this directory holds the code for the self driving car.
+# Download all files in one directory
+# Set your IDE to the directory holding the files
 # Start program by selecting all thel code in map.py then hitting enter
 # to run program again you will need to restart kernal
